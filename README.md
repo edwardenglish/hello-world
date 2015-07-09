@@ -1,3 +1,3 @@
 # hello-world
 This is a test repo.
-# The quick brown fox jumped over the lazy dog.
+This is some test code that I am putting together for testing.
